@@ -19,7 +19,7 @@ list.append(Uint8Array.from([3, 4, 5]))
 
 list.toUint8Array()
 // -> Uint8Array([0, 1, 2, 3, 4, 5])
-
+// -> Uint8Array([0, 1, 2])
 list.consume(3)
 list.toUint8Array()
 // -> Uint8Array([3, 4, 5])
