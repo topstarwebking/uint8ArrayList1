@@ -131,7 +131,7 @@
     "release": "semantic-release"
   },
   "dependencies": {
-    "uint8arrays": "^3.0.0"
+    "uint8arrays": "^4.0.2"
   },
   "devDependencies": {
     "aegir": "^36.1.3",
